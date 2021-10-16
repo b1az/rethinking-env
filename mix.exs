@@ -3,7 +3,7 @@ defmodule Reenv.MixProject do
 
   def project do
     [
-      app: :reenv_,
+      app: :reenv,
       version: "0.1.0",
       elixir: "~> 1.12",
       start_permanent: Mix.env() == :prod,
